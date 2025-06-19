@@ -59,3 +59,4 @@ public class Calculator
     {
         return a * a;
     }
+}
