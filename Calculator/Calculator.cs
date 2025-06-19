@@ -50,4 +50,12 @@ public class Calculator
         }
         return a / b;
     }
-}
+    /// <summary>
+    /// Squares the given number
+    /// </summary>
+    /// <param name="a"></param>
+    /// <returns></returns>
+    public double Square(double a)
+    {
+        return a * a;
+    }
